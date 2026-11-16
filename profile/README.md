@@ -1,4 +1,4 @@
-# FBSO TechServices
+# FBSO Technology Solutions
 
 **Tecnologia e Serviços** — consultoria de tecnologia, desenvolvimento de soluções e
 prestação de serviços em TI e Inteligência Artificial.

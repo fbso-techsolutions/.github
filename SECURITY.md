@@ -1,6 +1,6 @@
 # Política de Segurança
 
-Política default da FBSO TechServices.
+Política default da FBSO Technology Solutions.
 
 ## Baseline
 
