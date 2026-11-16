@@ -1,6 +1,6 @@
 # Contribuindo
 
-Guia de contribuição default da FBSO TechServices.
+Guia de contribuição default da FBSO Technology Solutions.
 
 ## Onde estão as regras
 
@@ -16,7 +16,7 @@ As regras completas vivem na **plataforma** (fonte única — não duplicar aqui
 ## Fluxo mínimo
 
 1. Abra uma issue (use os templates da org).
-2. Crie uma branch a partir de `main` (trunk-based).
+2. Crie uma branch a partir de `develop` (modelo de branches por ambiente).
 3. Abra um PR com descrição no template da org.
 4. PR review obrigatório antes do merge.
 

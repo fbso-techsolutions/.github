@@ -1,4 +1,4 @@
-# Governança de repositórios — FBSO TechServices
+# Governança de repositórios — FBSO Technology Solutions
 
 ## Topologia
 
@@ -32,7 +32,7 @@ github.com/fbso-techsolutions/
    (PCI-DSS, BCB, SEFAZ) ⇒ repo individual; mesmos protocolos/adapters ⇒ repo por família.
 4. **Um documento vive em um só lugar** ("ponteiros, não volume"). Links cross-repo usam
    URL absoluta do GitHub.
-5. **Trunk-based + PR review obrigatório.** Convenções em
+5. **Modelo de branches por ambiente (`develop` → `release` → `main`) + PR review obrigatório.** Convenções em
    `platform-standards/standards/engineering/`.
 
 ## Contrato de solução
