@@ -3,10 +3,10 @@
 # A lógica de build real vive em platform-standards (reusable workflow).
 name: CI Frontend (React)
 
+# ADR-009: CI só em PR (não em push — o merge exige o status check do PR).
 on:
-  push:
-    branches: [main]
   pull_request:
+    branches: [develop]
 
 jobs:
   call-platform:
